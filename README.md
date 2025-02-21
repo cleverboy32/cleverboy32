@@ -7,5 +7,3 @@
 ***
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cleverboy32&layout=compact&theme=dark)
 
-![](https://github-profile-trophy.vercel.app/?username=cleverboy32&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true)
-***
